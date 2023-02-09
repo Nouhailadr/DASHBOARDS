@@ -1,5 +1,5 @@
 # DASHBOARDS
-I've built some dashboards on Poer BI Desktop
+I've built some dashboards on Power BI Desktop
 
 # SUBSTANCE ABUSE ANALYSIS(November-22)
 - Dynamic dashboard in Power BI, describing insights about patients, their gender, their ethnicity, admission date, substance abused, age, medical condition and more..
